@@ -1,0 +1,87 @@
+{
+    "TotalPlayTimeSeconds":301.8471,
+    "LocalStatistics":{
+        "45b15b1b0a4787cb06fcef548fec9ce4":{
+            "TimesStarted":3,
+            "TimesFinished":6,
+            "LastPlayed":"2019-12-11T01:45:33.5472393+01:00",
+            "StatsEntries":{
+                "SongStatistics":[
+                    {
+                        "PlayerName":"Player01",
+                        "Difficulty":"Easy",
+                        "Score":0,
+                        "DateTime":"2019-12-11T01:37:51.9814890+01:00",
+                        "$id":"5"
+                    }
+                ]
+            }
+        }
+    },
+    "WebStatistics":{
+        
+    },
+    "TopTenList":[
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "$ref":"5"
+            },
+            "$id":"8"
+        },
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "PlayerName":"Player03",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2019-12-11T01:37:51.9874660+01:00"
+            }
+        },
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "PlayerName":"Player01",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2019-12-11T01:42:14.1077519+01:00"
+            }
+        },
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "PlayerName":"Player03",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2019-12-11T01:42:14.1117339+01:00"
+            }
+        },
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "PlayerName":"Player01",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2019-12-11T01:45:33.5372922+01:00"
+            }
+        },
+        {
+            "songName":"Space Unicorn",
+            "songArtist":"Parry Gripp, Brianne Drouhard",
+            "songStatistic":{
+                "PlayerName":"Player03",
+                "Difficulty":"Easy",
+                "Score":0,
+                "DateTime":"2019-12-11T01:45:33.5472393+01:00"
+            }
+        }
+    ],
+    "TopScore":{
+        "$ref":"8"
+    }
+}

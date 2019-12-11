@@ -8,9 +8,9 @@
     },
     "GraphicSettings":{
         "resolution":{
-            "Width":1031,
-            "Height":619,
-            "RefreshRate":59
+            "Width":1117,
+            "Height":538,
+            "RefreshRate":60
         },
         "fullScreenMode":"Windowed",
         "useImageAsCursor":true

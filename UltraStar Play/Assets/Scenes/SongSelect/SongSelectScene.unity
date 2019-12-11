@@ -1284,10 +1284,10 @@ MonoBehaviour:
   artistText: {fileID: 1340187610}
   songTitleText: {fileID: 425342157}
   songCountText: {fileID: 778661798}
-  highscoreLocalPlayer: {fileID: 0}
-  highscoreLocalScore: {fileID: 0}
-  highscoreWebPlayer: {fileID: 0}
-  highscoreWebScore: {fileID: 0}
+  highscoreLocalPlayer: {fileID: 1395254179}
+  highscoreLocalScore: {fileID: 1407307752}
+  highscoreWebPlayer: {fileID: 1810875765}
+  highscoreWebScore: {fileID: 1269442670}
   videoIndicator: {fileID: 909180080}
   duetIndicator: {fileID: 1246195317}
   playerProfileListController: {fileID: 222256820}
@@ -2972,6 +2972,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4509ad825132c742a480cc00ac0583a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 0}
 --- !u!1 &1290493359
 GameObject:
   m_ObjectHideFlags: 0
@@ -3277,8 +3278,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.00000007015535, y: 0.26914603}
   m_AnchorMax: {x: 1.0000005, y: 0.5743798}
-  m_AnchoredPosition: {x: -2.4200134, y: 17.399988}
-  m_SizeDelta: {x: -183.13, y: 5.7}
+  m_AnchoredPosition: {x: -2.420166, y: 17.399963}
+  m_SizeDelta: {x: -183.13, y: 5.700001}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1395254179
 MonoBehaviour:
@@ -3332,6 +3333,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c6f4736d7ace74448197a320f4f79bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 0}
 --- !u!1 &1407307750
 GameObject:
   m_ObjectHideFlags: 0
@@ -3422,6 +3424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 05434fb8fba210145a39fd53423ad38c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 0}
 --- !u!1 &1422664117
 GameObject:
   m_ObjectHideFlags: 0
@@ -4184,6 +4187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c5136c9fdc00984d8e3ffe27a1dbea5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text: {fileID: 0}
 --- !u!1001 &1813841980
 PrefabInstance:
   m_ObjectHideFlags: 0
