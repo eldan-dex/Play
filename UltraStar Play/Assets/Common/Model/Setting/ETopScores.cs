@@ -1,6 +1,0 @@
-﻿
-enum ETopScores
-{
-    All,
-    CurrentPlayers
-}
